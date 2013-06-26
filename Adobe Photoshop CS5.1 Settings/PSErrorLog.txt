@@ -1,4 +1,0 @@
-2013:05:10 08:09:28 :  : 1 : REQUIRE failed
-2013:05:10 08:09:28 : e:\ps12\ps_12_win_daily_retail\20110328.r.145\photoshop\main\photoshop\interfaces\UTrackResourceImp.h : 149 : REQUIRE failed
-2013:05:10 08:09:28 :  : 1 : REQUIRE failed
-2013:05:10 08:09:28 : e:\ps12\ps_12_win_daily_retail\20110328.r.145\photoshop\main\photoshop\interfaces\UTrackResourceImp.h : 149 : REQUIRE failed
